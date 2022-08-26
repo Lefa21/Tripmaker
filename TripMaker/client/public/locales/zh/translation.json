@@ -1,0 +1,31 @@
+{
+    "greeting": "你好",
+    "text": "Merci d'avoir visité notre site.",
+    "language": "语言",
+    "climat": "你更喜欢什么气候？",
+    "greetings": "你好",
+    "presentation1": "寻找最适合你的旅行",
+    "presentation2": "",
+    "presentation3": "目的地",
+    "departquiz": "开始答题吗？",
+    "froid": "冷",
+    "tempéré": "温带",
+    "continental": "大陆性气候",
+    "tropical": "热带",
+    "désertique": "沙漠气候",
+    "connexion": "登录",
+    "nomvillecards1": "巴厘省",
+    "nomvillecards2": "勃朗峰霞慕",
+    "nomvillecards3": "披披群岛",
+    "nomvillecards4": "里约热内卢",
+    "nomvillecards5": "开罗",
+    "descriptionville1": "峇厘岛是小巽他群岛岛屿，属印度尼西亚巴厘省。又称众神之岛、千庙之岛。峇厘岛居爪哇岛以东，龙目岛以西。距爪哇岛东端1.6公里。最高点是海拔3,142公尺的阿贡火山。",
+    "descriptionville2":"勃朗峰霞慕尼简称霞慕尼，又译沙莫尼-蒙勃朗、沙莫尼或夏慕尼，法国东部城市，奥弗涅-罗讷-阿尔卑斯大区上萨瓦省的一个市镇。142公尺的阿贡火山。",
+    "descriptionville3":"披披群岛是泰国的旅游胜地，位于普吉岛与泰国本土同样属于南部地区的甲米府之间之海面上。由于近年愈来愈多人前往布吉岛度假，使不少向往宁静假期的人选择邻",
+    "descriptionville4":"里约热内卢，位于巴西东南部，为里约热内卢州首府，也是巴西人口第二多的城市，仅次于圣保罗。面积1,256平方公里，人口674.7万人。人选择邻期的人选择邻",
+    "descriptionville5":"开罗是埃及的首都，埃及第一大城市以及全国经济、交通和文化中心，该城市横跨尼罗河，是整个中东地区的政治、经济和商业中心。使不少向往宁静假期的人选择邻",
+    "footerslogan": "旅程的第一步",
+    "footercopyright": "Copyright © 2022 TripMaker - All rights reserved"
+    
+
+  }

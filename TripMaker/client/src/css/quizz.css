@@ -1,0 +1,69 @@
+/* @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Poppins:400,500&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto&display=swap');
+
+  .boutondusite {
+    padding: 11px 70px;
+    border-radius: 8px;
+    background: transparent;
+    border: 1px solid #14947c;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 40px;
+    cursor: pointer;
+    transition: all .75s ease;
+    font-size: .95rem;
+    outline: none;
+    font-weight: bold;
+    /* font-family: 'Poppins'; */
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.boutondusite:hover {
+    background: #14947c;
+    color: rgb(255, 255, 255);
+
+  }
+  /* .boutonreservation {
+    padding: 11px 70px;
+    border-radius: 8px;
+    background: transparent;
+    border: 1px solid #14947c;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-left: 40px;
+    cursor: pointer;
+    transition: all .75s ease;
+   
+    font-size: .95rem;
+    outline: none;
+    font-weight: bold;
+    font-family: 'Poppins';
+
+  }
+  .boutonreservation:hover {
+    background: #14947c;
+    color: rgb(255, 255, 255);
+
+  } */
+
+  /* page accueil quiz */
+
+  .start{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+  
+  }
+  .question-text {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* font-family: 'Poppins'; */
+    font-family: 'Roboto', sans-serif;
+  }

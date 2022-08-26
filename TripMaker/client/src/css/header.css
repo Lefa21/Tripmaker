@@ -1,0 +1,121 @@
+/* @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Poppins:400,500&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* navbar fond  */
+.nava {
+    height: 80px;
+    background-color: #263037;
+    display: flex;
+    
+    justify-content: space-between;
+  }
+
+  /* Logo TripMaker */
+  .nava h1 {
+    /* font-family: 'Poppins'; */
+    font-family: 'Roboto', sans-serif;
+  cursor: pointer;
+    color: #fff;
+    font-size: 45px;
+    margin-left: 60px;
+    margin-top: 1%;
+  }
+  /* Positionnement des éléments dans la navbar */
+  .listea {
+    list-style-type: none;
+    /* font-family: 'Poppins'; */
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
+    position: relative;
+    float: right;
+    margin-right: 85px;
+  }
+  /*style des elementde la navbar */
+  .itemsa {
+    margin-right: 10px;
+    color: #fff;
+    cursor: pointer;
+    /* font-family: 'Poppins'; */
+    font-family: 'Roboto', sans-serif;
+  }
+  .logoa {
+    color:#14947C;
+  }
+ .logoC{
+  color:#14947C;
+  
+ }
+ .logoD{
+  text-align: center;
+  margin-top: 2%;
+  
+ }
+
+ .stickyTa{
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+ }
+
+  /* navbar fond  */
+.navi {
+  height: 135px;
+  background-color:  #fff;
+  display: flex;
+  
+  justify-content: space-between;
+}
+
+/* Logo TripMaker */
+.navi h1 {
+  /* font-family: 'Poppins'; */
+cursor: pointer;
+  color:  #263037;
+  font-size: 45px;
+  margin-left: 60px;
+  margin-top: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+/* Positionnement des éléments dans la navbar */
+.listea {
+  list-style-type: none;
+  /* font-family: 'Poppins'; */
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; 
+  position: relative;
+  float: right;
+  margin-right: 85px;
+  font-family: 'Roboto', sans-serif;
+}
+/*style des elementde la navbar */
+.itemsi {
+  margin-right: 10px;
+  color:  #263037;
+  cursor: pointer;
+  /* font-family: 'Poppins'; */
+  font-family: 'Roboto', sans-serif;
+}
+.logoi {
+  color:#14947C;
+}
+
+/* dashboard */
+.logoC{
+  color:#14947C;
+
+ }
+ .logoD{
+  text-align: center;
+  margin-top: 2%;
+
+ }
+
+ .stickyTa{
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+ }
+
+  

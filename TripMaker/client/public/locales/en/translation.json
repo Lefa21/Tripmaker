@@ -1,0 +1,32 @@
+{
+  "greeting": "Hello",
+  "text": "Thank you for visiting our website.",
+  "language": "Language",
+  "climat": "Which climate do you prefer?",
+  "greetings": "hello",
+  "presentation1": "Find the travel destination that best suits ",
+  "presentation2": "your",
+  "presentation3": "desires",
+  "departquiz": "shall we start the quiz?",
+  "froid": "cold",
+  "tempéré": "temperate",
+  "continental": "continental",
+  "tropical": "tropical",
+  "désertique": "desert",
+  "connexion": "Log in",
+  "nomvillecards1": "Bali",
+  "nomvillecards2": "Chamonix",
+  "nomvillecards3": "Phi Phi",
+  "nomvillecards4": "Rio",
+  "nomvillecards5": "Cairo",
+  "descriptionville1": " Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. The province includes the island of Bali and...",
+  "descriptionville2":"Chamonix-Mont-Blanc, more commonly known as Chamonix, is a commune in the Haute-Savoie department in the Auvergne-Rhône-Alpes.",
+  "descriptionville3":"The Phi Phi Islands are an island group in Thailand close to the large island of Phuket. Ko Phi Phi Don is the largest and most populated of the group.",
+  "descriptionville4":"Rio de Janeiro or simply Rio, literally River of January, is the second-most populous city in Brazil and the sixth-most populous in the Americas.",
+  "descriptionville5":"Cairo is associated with ancient Egypt, as the Giza pyramid complex and the ancient cities of Memphis and Heliopolis are located in its geographical area.",
+  "footerslogan": "The first step of your Journey",
+  "footercopyright": "Copyright © 2022 TripMaker - All rights reserved"
+    
+    
+    
+  }

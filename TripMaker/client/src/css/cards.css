@@ -1,0 +1,185 @@
+
+/* card destinations clés*/
+.car {
+    width: 220px;
+    height: 360px;
+    background: #000;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all .75s ease;
+    backface-visibility: hidden;
+    margin-top: 70px;
+    margin-right: 35px;
+    margin-left: 35px;
+
+    
+  }
+  
+  /* redimensionne l'élement card sur le plan 2D */
+  .car:hover {
+    transform: scale(.9);
+  }
+
+  /* reduit la taille de la card après avoir posé le curseur dessus */
+  .car:hover::after {
+    height: 280px;
+  }
+
+  /* marging-bottom du texte à l'interieur de la hover */
+  .car:hover .con-text p {
+    margin-bottom: 0px;
+    opacity: 1;
+  }
+
+  /* redimensionne l'élement img sur le plan 2D  */
+  .car:hover img {
+    transform: scale(1.25);
+  }
+
+  /* permet d'ajouter les petites icones sur la photo */
+  .car:hover .menudestinationcles {
+    transform: translate(0);
+    opacity: 1;
+  }
+  .car::after {
+    width: 100%;
+    content: '';
+    left: 0px;
+    bottom: 0px;
+    height: 150px;
+    position: absolute;
+    background: linear-gradient(180deg, rgba(0,0,0,0)0%, rgba(0,0,0,1)100%);
+    z-index: 20;
+    transition: all .75s ease;
+  }
+  /* L'image prend 100%  de la card*/
+  .car img {
+    height: 100%;
+    z-index: 10;
+    transition: all .75s ease;
+  }
+  /* le texte de la card */
+  .car .con-text {
+    z-index: 30;
+    position: absolute;
+    bottom: 0px;
+    color: #fff;
+    padding: 20px;
+    padding-bottom: 30px
+  }
+
+  /* Alignement du texte à l'intérieur de la card */
+  .car .con-text p {
+    font-size: .8rem;
+    opacity: 0;
+    margin-bottom: -170px;
+    transition: all .75s ease;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+   
+  
+    
+  }
+
+  
+  /* Button à droite de la card  */
+  .car .con-text p button {
+    padding: 7px 17px;
+    border-radius: 12px;
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: auto;
+    cursor: pointer;
+    transition: all .75s ease;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: .75rem;
+    outline: none;
+    
+  }
+
+  /* Button détails en bas à droite de la card lorsque la hover s'active */
+  .car .con-text p button:hover {
+    background: #fff;
+    color: #000;
+   
+  }
+
+  /* Postionnement des card*/
+  .menudestinationcles {
+    position: absolute;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    z-index: 40;
+    border-radius: 14px;
+    padding-left: 0px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    top: 0px;
+    opacity: 0;
+    transform: translate(100%);
+    transition: all .75s ease;
+  
+  }
+  
+  .menudestinationcles li {
+    background: #fff;
+    list-style: none;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: .7;
+    transition: all .75s ease;
+    backface-visibility: hidden;
+  }
+  
+  .menudestinationcles li:last-child {
+    border-radius: 0px 0px 12px 12px;
+  }
+  
+  .menudestinationcles li:first-child {
+    border-radius: 12px 12px 0px 0px;
+  }
+  .menudestinationcles li:hover {
+    opacity: 1;
+    transform: translate(-7px, -4px);
+    border-radius: 6px;
+  }
+  /* .ul li icon{
+    font-size: 1.4rem;
+    color: #000;
+  } */
+  .star{
+    background: transparent; 
+    color: #14947C;
+    margin-top: 10px;
+
+    cursor: pointer;
+    transition: all .75s ease;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.50rem;
+
+
+
+  }
+
+  .card-img {
+    height: 100%;
+    z-index: 10;
+    transition: all .75s ease;
+  }
+  

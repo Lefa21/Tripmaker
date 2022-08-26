@@ -1,0 +1,31 @@
+{
+    "greeting": "Bonjour",
+    "text": "Merci d'avoir visité notre site.",
+    "language": "Langage",
+    "climat": "Quel climat préferez vous?",
+    "greetings": "salut",
+    "presentation1": "Trouvez le voyage idéal en quelques clics",
+    "presentation2": "selon",
+    "presentation3": "vos envies",
+    "departquiz": "on commence le quiz?",
+    "froid": "froid",
+    "tempéré": "tempéré",
+    "continental": "continental",
+    "tropical": "tropical",
+    "désertique": "désertique",
+    "connexion": "Connexion",
+    "nomvillecards1": "Bali",
+    "nomvillecards2": "Chamonix",
+    "nomvillecards3": "Phi Phi",
+    "nomvillecards4": "Rio",
+    "nomvillecards5": "Le Caire",
+    "descriptionville1": " Bali, « l’île des dieux», est sans doute l’île la plus visitée d’Indonésie tant elle réunit de charme et de richesses. Elle attire par sa beauté.",
+    "descriptionville2":"Chamonix, ou Chamonix-Mont-Blanc, est une commune française située dans le département de la Haute Savoie, en région Auvergne-Rhône-Alpes.",
+    "descriptionville3":" Les îles de Phi Phi, située non loin de Phuket, sont un archipel d’îlots situé dans la mer d’Andaman. Phi Phi Don est la plus grande île !",
+    "descriptionville4":"Rio de Janeiro est une grande ville du Brésil située en bord de mer. Elle est connue pour ses plages de Copacabana et d'Ipanema.",
+    "descriptionville5":"La plus grande ville du monde arabe et de toute l'Afrique regorge d'attractions, de sites historiques, de bazar et de shoppings.",
+    "footerslogan": "La première étape du voyage",
+    "footercopyright": "Copyright © 2022 TripMaker - Tous droits réservés"
+    
+
+  }
